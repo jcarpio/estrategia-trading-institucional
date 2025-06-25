@@ -77,7 +77,7 @@ La investigación en psicología del trading confirma (Kahneman & Tversky, 1979;
 - **Tiempo reversal**: 1-2 días
 - **Relación MA200**: Retrocedió significativamente
 
-![Imagen 1: Análisis Mayo 2025](Screenshot%202025-06-25%20at%2017.36.09.png)
+![Imagen 1: Análisis Mayo 2025](image1_may2025.png)
 *Gráfico 1: Máximo de 3 meses en Mayo 2025 rechazado inmediatamente con retroceso hacia 42,600*
 
 #### Caso 2: Febrero 2024  
@@ -87,7 +87,7 @@ La investigación en psicología del trading confirma (Kahneman & Tversky, 1979;
 - **Tiempo reversal**: 2-3 días
 - **Relación MA200**: Retrocedió hacia media móvil
 
-![Imagen 2: Análisis Febrero 2024](Screenshot%202025-06-25%20at%2017.36.26.png)
+![Imagen 2: Análisis Febrero 2024](image2_feb2024.png)
 *Gráfico 2: Máximo de 3 meses en Febrero 2024 seguido de retroceso hacia MA200*
 
 #### Caso 3: Mayo 2024
@@ -97,7 +97,7 @@ La investigación en psicología del trading confirma (Kahneman & Tversky, 1979;
 - **Tiempo reversal**: 1-2 días
 - **Relación MA200**: Retrocedió claramente hacia MA200
 
-![Imagen 3: Análisis Mayo 2024](Screenshot%202025-06-25%20at%2017.36.39.png)
+![Imagen 3: Análisis Mayo 2024](image3_may2024.png)
 *Gráfico 3: Rechazo fuerte en 40,000 con caída significativa de 1,800 puntos*
 
 #### Caso 4: Julio 2024
@@ -107,7 +107,7 @@ La investigación en psicología del trading confirma (Kahneman & Tversky, 1979;
 - **Tiempo reversal**: 1-2 días
 - **Relación MA200**: Rompió por debajo de MA200
 
-![Imagen 4: Análisis Julio 2024](Screenshot%202025-06-25%20at%2017.37.17.png)
+![Imagen 4: Análisis Julio 2024](image4_jul2024.png)
 *Gráfico 4: Máximo en 41,700 seguido de caída dramática de 3,100 puntos*
 
 #### Caso 5: Diciembre 2024
@@ -117,7 +117,7 @@ La investigación en psicología del trading confirma (Kahneman & Tversky, 1979;
 - **Tiempo reversal**: 1-2 días
 - **Relación MA200**: Se mantuvo por encima de MA200
 
-![Imagen 5: Análisis Diciembre 2024](Screenshot%202025-06-25%20at%2017.37.51.png)
+![Imagen 5: Análisis Diciembre 2024](image5_dec2024.png)
 *Gráfico 5: Rechazo en 45,100 con retroceso controlado de 1,100 puntos*
 
 #### Caso 6: Febrero 2025
@@ -127,7 +127,7 @@ La investigación en psicología del trading confirma (Kahneman & Tversky, 1979;
 - **Tiempo reversal**: 1-2 días
 - **Relación MA200**: Rompió claramente por debajo
 
-![Imagen 6: Análisis Febrero 2025](Screenshot%202025-06-25%20at%2017.40.36.png)
+![Imagen 6: Análisis Febrero 2025](image6_feb2025.png)
 *Gráfico 6: Rechazo más brutal del análisis con caída de 4,000 puntos*
 
 ### 3.3 Estadísticas Consolidadas
@@ -230,27 +230,27 @@ El análisis de las gráficas de 45 minutos revela patrones que son invisibles e
 Los siguientes gráficos ilustran cada uno de los seis casos analizados, demostrando el patrón consistente de rechazo en máximos de 3 meses:
 
 ### Imagen 1: Período Marzo-Junio 2025
-![Análisis Marzo-Junio 2025](Screenshot%202025-06-25%20at%2017.36.09.png)
+![Análisis Marzo-Junio 2025](image1_may2025.png)
 *Máximo en ~43,100 rechazado con retroceso inmediato hacia 42,600. Obsérvese la precisión del rechazo y la velocidad del retroceso.*
 
 ### Imagen 2: Período Enero-Marzo 2024  
-![Análisis Enero-Marzo 2024](Screenshot%202025-06-25%20at%2017.36.26.png)
+![Análisis Enero-Marzo 2024](image2_feb2024.png)
 *Máximo en ~39,200 seguido de retroceso hacia MA200. Ejemplo clásico de distribución institucional en máximos.*
 
 ### Imagen 3: Período Febrero-Mayo 2024
-![Análisis Febrero-Mayo 2024](Screenshot%202025-06-25%20at%2017.36.39.png)
+![Análisis Febrero-Mayo 2024](image3_may2024.png)
 *Rechazo fuerte en 40,000 con caída de 1,800 puntos. La resistencia psicológica de números redondos combinada con máximo histórico.*
 
 ### Imagen 4: Período Junio-Septiembre 2024
-![Análisis Junio-Septiembre 2024](Screenshot%202025-06-25%20at%2017.37.17.png)
+![Análisis Junio-Septiembre 2024](image4_jul2024.png)
 *Máximo en 41,700 seguido de caída de 3,100 puntos. Uno de los rechazos más dramáticos del análisis.*
 
 ### Imagen 5: Período Septiembre-Diciembre 2024
-![Análisis Septiembre-Diciembre 2024](Screenshot%202025-06-25%20at%2017.37.51.png)
+![Análisis Septiembre-Diciembre 2024](image5_dec2024.png)
 *Rechazo en 45,100 con retroceso de 1,100 puntos. A pesar de ser menos severo, mantiene el patrón de rechazo inmediato.*
 
 ### Imagen 6: Período Diciembre 2024-Marzo 2025
-![Análisis Diciembre 2024-Marzo 2025](Screenshot%202025-06-25%20at%2017.40.36.png)
+![Análisis Diciembre 2024-Marzo 2025](image6_feb2025.png)
 *Rechazo brutal en 45,100 con caída de 4,000 puntos. El caso más extremo que valida la estrategia de stops amplios.*
 
 ---
