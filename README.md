@@ -352,5 +352,4 @@ For completing funding challenges, this strategy offers:
 ---
 
 *Report generated on June 25, 2025*  
-*Analysis conducted by: Institutional Trading Strategy Team*  
 *Reviewed with academic literature: 35+ peer-reviewed sources*
