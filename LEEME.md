@@ -355,6 +355,5 @@ Para completar los challenges de fondeo, esta estrategia ofrece:
 
 ---
 
-*Informe generado el 25 de junio de 2025*  
-*Análisis realizado por: Estrategia de Trading Institucional*  
+*Informe generado el 25 de junio de 2025*    
 *Revisado con literatura académica: 35+ fuentes peer-reviewed*
