@@ -210,6 +210,8 @@ El análisis de las gráficas de 45 minutos revela patrones que son invisibles e
 ## 7. Casos de Estudio: Análisis Visual
 
 ### Imagen 1: Período Marzo-Junio 2025
+![Imagen 1] (Imagen 1 Screenshot 2025-06-25 at 17.36.09.png)
+
 *Máximo en ~43,100 rechazado con retroceso inmediato hacia 42,600*
 
 ### Imagen 2: Período Enero-Marzo 2024  
